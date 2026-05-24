@@ -1,4 +1,4 @@
-A web app that simulates a stock trading platform, built with Python and Flask.
+A prototype web app that simulates a stock trading platform, built with Python and Flask.
 
 Users can register an account, log in, and manage a virtual portfolio with $10,000 in starting cash.
 They can look up real stock prices, buy and sell shares, add cash to their account, and check their transaction history.
