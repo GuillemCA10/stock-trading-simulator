@@ -9,7 +9,15 @@ but this dependency may break in the future if the API is taken down.
 Migrating to a public alternative like Yahoo Finance or Alpha Vantage is a planned improvement.
 
 SETUP
-Install the required dependencies:
+
+First you'll have to clone the repository:
+
+```
+git clone https://github.com/your-username/stock-trading-app.git
+cd stock-trading-app
+```
+
+Then, install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
@@ -17,4 +25,4 @@ Run the app:
 ```
 flask run
 ```
-Then open your browser and go to http://127.0.0.1:5000.
+Finally, open your browser and go to http://127.0.0.1:5000.
