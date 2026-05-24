@@ -14,8 +14,8 @@ It will never leave your machine, but if you are not convinced you can use a moc
 INSTALLATION
 
 ```
-git clone https://github.com/GuillemCA10/stock-trading-app.git
-cd stock-trading-app
+git clone https://github.com/GuillemCA10/stock-trading-simulator.git
+cd stock-trading-simulator
 ```
 
 SETUP
